@@ -5,7 +5,6 @@ import { HttpClientModule } from '@angular/common/http';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { VisitorsComponent } from './components/visitors/visitors.component';
-import { GraphComponent } from './components/graph/graph.component';
 import { SectorComponent } from './components/sector/sector.component';
 import { HeaderComponent } from './components/layout/header/header.component';
 
@@ -14,7 +13,6 @@ import { HeaderComponent } from './components/layout/header/header.component';
   declarations: [
     AppComponent,
     VisitorsComponent,
-    GraphComponent,
     SectorComponent,
     HeaderComponent
   ],
