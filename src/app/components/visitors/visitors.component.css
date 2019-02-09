@@ -1,0 +1,9 @@
+:host::ng-deep.dd {
+    font: 10px sans-serif;
+    background-color: steelblue;
+    fill: blueviolet;
+    text-align: left;
+    padding: 3px;
+    margin: 1px;
+    color: white;
+  } 
